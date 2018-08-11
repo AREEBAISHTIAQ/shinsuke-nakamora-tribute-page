@@ -1,0 +1,53 @@
+body {
+  background-color: black;
+  color: gray;
+  padding: 50px;
+}
+
+#title {
+  text-align: center;
+  color: red;
+  font-family: marck script;
+  font-size: 40px;
+}
+
+#img-caption {
+  font-size: 25px;
+  color: brown;
+  font-family: marck script;
+}
+
+#main {
+ margin: auto;
+}
+
+#image {
+  max-width: 100%;
+  border: 2px solid red;
+}
+#img-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#tribute-info {
+  font-size: 18px;
+  text-align: justify;
+  max-width: 1024px;
+  margin: auto;
+}
+
+#tribute-link {
+  color: brown;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+#tribute-link:hover {
+  color: gray;
+  transition-duration: 2s;
+  font-size: 21px;
+}
+
+
