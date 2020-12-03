@@ -1,2 +1,2 @@
-# shinsuke nakamora tribute page
-This is my tribute page from FreeCodeCamp curriculum.
+# Tribute Page
+This is my tribute page project from FreeCodeCamp curriculum.
